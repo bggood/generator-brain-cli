@@ -15,7 +15,10 @@ Then generate your new project:
 ```bash
 yo brain-cli
 ```
-
+增加多模块:
+```bash
+yo brain-cli:page
+```
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
